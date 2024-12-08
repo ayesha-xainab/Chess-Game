@@ -1,6 +1,6 @@
 # Chess-Game
 
-This is a fully functional chess game built using JavaFX. It allows players to play chess against their friends. The game features a graphical interface with an intuitive and user-friendly design. It supports the basic movements and rules of chess.
+This is a fully functional chess game built using JavaFX. It allows players to play chess against each other. The game features a graphical interface with an intuitive and user-friendly design. It supports the basic movements and rules of chess.
 
 ## Features
 
@@ -21,7 +21,7 @@ To run the Chess game on your local machine, you can open the project in an IDE 
 
 ## How to Play
 
-1. **Start a Game:** Choose either single-player or two-player mode.
+1. **Start a Game:** Get a friend to play with.
 2. **Move Pieces:** Click on the piece you want to move, then click on the destination square.
 3. **Check and Checkmate:** The game will notify you when your king is in check or checkmate.
 4. **End the Game:** The game ends when a player achieves checkmate or the game ends in a stalemate or draw.
@@ -42,4 +42,4 @@ To run the Chess game on your local machine, you can open the project in an IDE 
 
 ## Contributions
 
-The project welcomes any contributions to improve the game, add new features, or fix bugs.
+This project welcomes any contributions to improve the game, add new features, or fix bugs.
