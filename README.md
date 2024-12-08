@@ -30,7 +30,7 @@ To run the Chess game on your local machine, you can open the project in an IDE 
 
 ![First Move](screenshots/FirstMove.png)
 
-![Highlight Possible Moves](screenshots/HighlightMovess.png)
+![Highlight Possible Moves](screenshots/HighlightMoves.png)
 
 ![Illegal Move](screenshots/IllegalMove.png)  
 
