@@ -30,15 +30,15 @@ To run the Chess game on your local machine, you can open the project in an IDE 
 
 ![First Move](screenshots/First%20Move.png)
 
-![Highlight Possible Moves](screenshots/Highlight/Possible/Captures.png)
+![Highlight Possible Moves](screenshots/Highlight%20Possible%20Captures.png)
 
-![Illegal Move](screenshots/Illegal/Move/Alert.png)
+![Illegal Move](screenshots/Illegal%20Move%20Alert.png)
 
-![Check Alert](screenshots/Check/Alert.png)
+![Check Alert](screenshots/Check%20Alert.png)
 
-![Game Scene](screenshots/Game/Scene.png)
+![Game Scene](screenshots/Game%20Scene.png)
 
-![Game Over](screenshots/Check/Mate/(Game/Over).png)
+![Game Over](screenshots/Check%20Mate%20(Game%20Over).png)
 
 ## Contributions
 
