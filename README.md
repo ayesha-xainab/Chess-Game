@@ -28,11 +28,17 @@ To run the Chess game on your local machine, you can open the project in an IDE 
 
 ## Game Play
 
-![First Move](screenshots/First%20Move.png)  ![Highlight Possible Moves](screenshots/Highlight%20Possible%20Captures.png)
+![First Move](screenshots/First%20Move.png){width=400px}
 
-![Illegal Move](screenshots/Illegal%20Move%20Alert.png)  ![Check Alert](screenshots/Check%20Alert.png)
+![Highlight Possible Moves](screenshots/Highlight%20Possible%20Captures.png)
 
-![Game Scene](screenshots/Game%20Scene.png)  ![Game Over](screenshots/Check%20Mate%20(Game%20Over).png)
+![Illegal Move](screenshots/Illegal%20Move%20Alert.png)  
+
+![Check Alert](screenshots/Check%20Alert.png)
+
+![Game Scene](screenshots/Game%20Scene.png)  
+
+![Game Over](screenshots/Check%20Mate%20(Game%20Over).png)
 
 ## Contributions
 
